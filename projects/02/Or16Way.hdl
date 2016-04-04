@@ -1,0 +1,14 @@
+// implemented this gate so that it can be used to get zr
+// for my Arithmetic Logical Unit (ALU)
+
+CHIP Or16Way {
+
+    IN in[16];
+    OUT out;
+
+    PARTS:
+    // Or two Or8Way
+    Or8Way(in = in[0..7], out = Orout1);
+    Or8Way(in = in[8..15], out = Orout2);
+    Or(a = Orout1, b = Orout2, out = out);
+}

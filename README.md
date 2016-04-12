@@ -7,11 +7,6 @@ https://www.coursera.org/learn/build-a-computer/home/
 - [Logic.ly](http://logic.ly/) for designing and debugging circuits
 - [Cloud9](https://c9.io/) online code editor (See also: [our guide to running NAND2Tetris software remotely](https://github.com/LearnToCodeLA/nand2tetris/wiki/Test-HDL-files-remotely))
 
-## Additional Resources
-
-- Watch [these videos of another NAND2Tetris study group](https://www.youtube.com/playlist?list=PLItFDtW5mcKqzmdjdEhha6KImPwBLBaQr) (Warning: may contain spoilers!)
-- ...Add more here!
-
 ## Cool Links
 
 - Video: [Binary addition with dominoes](https://www.youtube.com/watch?v=lNuPy-r1GuQ)

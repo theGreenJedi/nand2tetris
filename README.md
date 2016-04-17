@@ -2,16 +2,10 @@
 the Coursera MOOC: Nand 2 Tetris
 https://www.coursera.org/learn/build-a-computer/home/
 
-## Run the Simulator
-Launch the hardware simulator, full nandToTetris zip was uncompressed on desktop:
-
-```
-> ~/desktop/nand2tetris/tools/hardwaresimulator.sh
-
 ## Tools
+
 - [Cloud9](https://c9.io/) online code editor (See also: [our guide to running NAND2Tetris software remotely](https://github.com/LearnToCodeLA/nand2tetris/wiki/Test-HDL-files-remotely))
 - [Logic.ly](http://logic.ly/) for designing and debugging circuits
-
 
 ## Cool Links
 
@@ -25,3 +19,9 @@ Launch the hardware simulator, full nandToTetris zip was uncompressed on desktop
 - Video: [How Does a Transistor Work?](https://www.youtube.com/watch?v=IcrBqCFLHIY)
 - Video: [16-bit Arithmetic Logic Unit (ALU) Built in Minecraft](https://www.youtube.com/watch?v=LGkkyKZVzug)
 
+
+## Run the Simulator
+Launch the hardware simulator, full nandToTetris zip was uncompressed on desktop:
+
+```
+> ~/desktop/nand2tetris/tools/hardwaresimulator.sh

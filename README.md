@@ -1,4 +1,4 @@
-# nand2Tetris
+# Nand2Tetris
 the Coursera MOOC: Nand 2 Tetris
 https://www.coursera.org/learn/build-a-computer/home/
 

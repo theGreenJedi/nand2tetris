@@ -4,7 +4,7 @@ https://www.coursera.org/learn/build-a-computer/home/
 
 ## Tools
 
-- [Cloud9](https://c9.io/) online code editor (See also: [our guide to running NAND2Tetris software remotely](https://github.com/LearnToCodeLA/nand2tetris/wiki/Test-HDL-files-remotely))
+- [Cloud9](https://c9.io/) online code editor (See also: [guide to running NAND2Tetris software remotely](https://github.com/LearnToCodeLA/nand2tetris/wiki/Test-HDL-files-remotely))
 - [Logic.ly](http://logic.ly/) for designing and debugging circuits
 
 ## Cool Links
